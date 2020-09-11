@@ -15,6 +15,7 @@ public class StudentDB {
 		info1.checkBalance(200);
 		
 		System.out.println(info1.toString());
+		System.out.println("***********************");
 
 	}
 
